@@ -4,3 +4,4 @@ answer:不关心压缩图像，网络可能会学会理解内容;无论如何，
        将图像用纯色填充到平方大小，然后调整大小。
        做一个这样的组合
        Depending on how far you want or need to go, there actually is a paper here called Spatial Pyramid Pooling in Deep Convolution Networks for Visual Recognition that handles inputs of arbitrary sizes by processing them in a very special way.
+做修改
